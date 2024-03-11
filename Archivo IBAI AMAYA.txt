@@ -1,0 +1,1 @@
+ Añadiria algun apartado má orientado a la la vida laboral, algún ejemplo más practico de cara a programar, parecida a la actividad del ejercicio de programación utilizando control de versiones.
