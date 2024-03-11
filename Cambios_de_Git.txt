@@ -1,0 +1,1 @@
+El cambio que le daría a git sería que si hay un error y se te apaga el dispositivo, Git haga una copia de seguridad parecido a un match.
