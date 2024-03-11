@@ -1,0 +1,6 @@
+No se me ocurren muchas cosas para mejorar de lo de GIT, si 
+me parece que deberiamos ahondar en la explicacion de las
+autenticaciones y la seguridad SSH, ya que en mi caso, debo
+colocar un TOKEN en vez de mi contrasenya, lo que me complica
+bastante el trabajo.
+Ihan Francisco Maximovicz
